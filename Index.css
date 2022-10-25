@@ -1,0 +1,39 @@
+body 
+{
+	background-image: url("https://veja.abril.com.br/wp-content/uploads/2016/06/beatles-abbey-road-620-original2.jpeg");
+	text-align: center;
+} 
+h1 
+{
+	font-style: italic;
+	font-size: 30px;
+	color: black;
+	background-color: pink;
+}
+h2 
+{
+	font-family: "Arial";
+	text-align: right;
+	color: orange;
+	background-color: gray;
+}
+h3 
+{
+	font-family: "Arial";
+	text-align: right;
+	color: orange;
+	background-color: gray;
+}
+p 
+{
+	color: yellow;
+	font-stretch: 9;
+	font-style: italic, bold;
+	background-color: green;
+}
+a 
+{
+	text-decoration: none;
+	background-color: blue;
+	text-align: right;
+}
